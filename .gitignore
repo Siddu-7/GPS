@@ -1,0 +1,7 @@
+Debug/
+*.cfg
+*.log
+*.temp
+*.tmp 
+*.bin
+*.hex
